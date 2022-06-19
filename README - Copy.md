@@ -1,2 +1,0 @@
-# LearningC
-Practicing C Programs
