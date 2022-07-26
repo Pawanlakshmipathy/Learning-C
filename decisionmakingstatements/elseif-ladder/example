@@ -1,0 +1,25 @@
+#include<stdio.h>
+void main()
+{
+    int n;
+    printf("Enter any integer:");
+    scanf("%d",&n);
+    {
+        if(n>0)
+            {
+                printf("Number is positive");
+            }             
+        elseif (n<0)
+            {
+                printf("Number is negative");
+            }
+        elseif (n==0)
+            {
+                printf("Number is zero");
+            }  
+        else
+            {
+                printf("Invalid input");
+            }
+    }
+}
