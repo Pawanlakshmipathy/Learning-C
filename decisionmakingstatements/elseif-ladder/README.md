@@ -1,7 +1,6 @@
 # else if ladder statement
 
 * This is basically a "Multi-way" decision statement.
-
 * This is used when we must choose among many alternatives.
 
 The syntax is shhown below:
