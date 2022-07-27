@@ -1,6 +1,7 @@
 # if statement
 
 *This is basically a "one-way" descision statement.
+
 *This is used when we have only one alternative.
 
 The syntax is shhown below:
