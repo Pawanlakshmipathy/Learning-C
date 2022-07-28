@@ -20,3 +20,9 @@ The syntax is shhown below:
 * If an expression is evaluated to true,then
 * Statement associated with the expression is executed &
 * Control comes out of the entire else if ladder.
+
+Flow chart
+
+
+![Untitled Diagram drawio (5)](https://user-images.githubusercontent.com/67837564/181572474-71c75aed-64b5-425d-9b80-f46fcef14818.png)
+
