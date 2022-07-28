@@ -20,5 +20,7 @@ The syntax is show below
           default: default statements;
         }
         
-Flow chart 
+Flow chart
+
+
 ![Untitled Diagram drawio (4)](https://user-images.githubusercontent.com/67837564/181522678-696b8f0c-29e9-4a35-b3b8-164a778661ce.png)
